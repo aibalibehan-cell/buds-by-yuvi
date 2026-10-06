@@ -1,0 +1,19 @@
+{
+  "name": "buds-by-yuvi",
+  "version": "1.0.0",
+  "description": "Aether 1 Earbuds — Interactive 3D Audio Experience",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "gsap",
+    "aether1",
+    "audio",
+    "earbuds"
+  ],
+  "author": "Yuvi",
+  "license": "MIT"
+}
